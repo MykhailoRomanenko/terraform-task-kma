@@ -18,6 +18,6 @@ resource "aws_instance" "lab5_ec2" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Lab5Romanenko"
+    Name = "Lab5RomanenkoEdited"
   }
 }
